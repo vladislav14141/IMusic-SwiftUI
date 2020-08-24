@@ -1,7 +1,7 @@
 # IMusic-SwiftUI
 Application plays demo version of songs(actually 30 seconds) received from Itunes.   
 In this app I learning clean swift architecture and trying to make controller via SwiftUI.  
-![alt text](https://imgur.com/a/5m7UN4y)
+![alt text](https://i.imgur.com/xotVlSn.gif)
 ## Overview
 * App used Itunes API https://itunes.apple.com/search
 * Awesome data fetcher which contain generics
